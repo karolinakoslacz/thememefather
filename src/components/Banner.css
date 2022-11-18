@@ -1,0 +1,31 @@
+.MainBanner{
+    background-color: black;
+    text-align: center;
+    font-family: TheGodfather;
+    margin-top: -70px;
+}
+
+.MainBanner h2{
+    color: white;
+    font-size: 500%;
+    letter-spacing: 10px;
+    font-weight: lighter;
+
+}
+
+@font-face {
+    font-family: "TheGodfather";
+    src: local("TheGodather"),
+     url('../fonts/the-godfather/TheGodfather-v2.ttf') format("truetype");
+    }
+
+.Logo{
+margin-top: -150px;
+margin-left: 480px;
+padding-bottom: 20px;
+}
+
+.Logo img{
+height: 60px;
+width: auto;
+}
